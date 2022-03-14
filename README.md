@@ -7,6 +7,11 @@ https://elmas3.github.io/mao-seminar/
 直哉
 座敷
 ブルー
+<<<<<<< HEAD
+=======
+yamada
+gurinn
+>>>>>>> parent of a948fce (bjkbjkbkbk)
 
 # ディレクトリ構成
 ```
